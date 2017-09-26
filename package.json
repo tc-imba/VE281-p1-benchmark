@@ -1,0 +1,7 @@
+{
+  "name": "VE281-p1-benchmark",
+  "version": "0.0.1",
+  "dependencies": {
+    "gauge": "^2.7.4"
+  }
+}
